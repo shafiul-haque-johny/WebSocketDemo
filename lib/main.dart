@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Web Socket",
+      title: "Web Socket Demo",
       home: Scaffold(
         appBar: AppBar(
           title: const Text(
